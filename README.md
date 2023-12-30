@@ -1,3 +1,3 @@
-### Desafio Ransomware da DIO
+# Desafio Ransomware da DIO
 
-# A idéia do projeto é criar um ransonware funcional.
+### A idéia do projeto é criar um ransonware funcional.
